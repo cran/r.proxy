@@ -1,0 +1,11 @@
+f695de72bb5571824f07cfe7e6b0ef41 *DESCRIPTION
+0abf09d6ddd578537c123ca5ad4c054a *LICENSE
+76eaec0509919091c92facf8823cb7dc *NAMESPACE
+6873ddc3e81a13f636e68c61a0447125 *R/check_ip.R
+04eb92fe8646659758ec3e6f774bc734 *R/init_proxy.R
+e5c130af6addd1602fffc00260a6340d *R/proxy.R
+03c6fd34d2482846010a50ec869178fe *README.md
+56cf76f16f2cc92295782596695ee7fa *man/check_ip.Rd
+5c0edb64d2875499358b29a5e32050b3 *man/init_proxy.Rd
+f8fcb77f3d7d529b65737c98521199be *man/noproxy.Rd
+6d2008bbdfeba40c2e0ea8da29db1fc6 *man/proxy.Rd
