@@ -4,6 +4,11 @@
 # r.proxy
 
 <!-- badges: start -->
+![](https://www.r-pkg.org/badges/version-last-release/r.proxy)
+![](https://cranlogs.r-pkg.org/badges/grand-total/r.proxy)
+![](https://cranlogs.r-pkg.org/badges/last-day/r.proxy)
+![](https://cranlogs.r-pkg.org/badges/last-week/r.proxy)
+![](https://cranlogs.r-pkg.org/badges/r.proxy)
 <!-- badges: end -->
 
 The goal of r.proxy is to Set Proxy in R Console.
@@ -13,7 +18,14 @@ This project is inspired by
 
 ## Installation
 
-You can install the development version of r.proxy like so:
+You can install the released version of r.proxy from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("r.proxy")
+```
+
+And you can install the development version of r.proxy like so:
 
 ``` r
 # install.packages("devtools")
